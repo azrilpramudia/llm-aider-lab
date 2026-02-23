@@ -22,6 +22,10 @@ To get started with this lab, you will need to have Aider installed and configur
 
 2.  **Install Aider (if you haven't already):**
     ```bash
+    curl -LsSf https://aider.chat/install.sh | sh
+    ```
+    Alternatively, you can install with pip:
+    ```bash
     pip install aider-chat
     ```
     For detailed installation and configuration instructions, please refer to the [Aider documentation](https://aider.chat/).
