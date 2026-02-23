@@ -29,16 +29,3 @@ To get started with this lab, you will need to have Aider installed and configur
 3.  **Start experimenting!**
     You can use Aider to interact with the files in this repository, practice refactoring, generate new code, or test different prompts.
 
-## Contributing
-
-This lab is an open space for learning and sharing. If you have experiments, findings, or examples you'd like to add, feel free to contribute!
-
-1.  Fork the repository.
-2.  Create a new branch for your contributions (`git checkout -b feature/your-feature-name`).
-3.  Commit your changes (`git commit -m 'Add some feature'`).
-4.  Push to the branch (`git push origin feature/your-feature-name`).
-5.  Open a Pull Request.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
