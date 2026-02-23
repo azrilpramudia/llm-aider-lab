@@ -1,5 +1,7 @@
 # LLM Aider Lab
 
+![LLM Aider Lab Logo](https://raw.githubusercontent.com/azrilpramudia/llm-aider-lab/main/assets/images/logo.png)
+
 This repository serves as a laboratory for experimenting with Large Language Models (LLMs) and the Aider tool. It's a space for developing, testing, and understanding the capabilities of LLMs in code generation, refactoring, and other programming tasks.
 
 ## Purpose
